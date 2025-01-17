@@ -67,7 +67,7 @@ function ContactButtons({ contact, personalWebsiteUrl }: ContactButtonsProps) {
       )}
       {contact.email && (
         <SocialButton
-          href={`mailto:${contact.email}`}
+          href={`${contact.email}`}
           icon={MailIcon}
           label="Email"
         />

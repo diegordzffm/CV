@@ -63,13 +63,13 @@ export const RESUME_DATA = {
       description: (
         <>
           <span style={{ fontSize: "0.8rem", fontWeight: "normal", marginBottom: "0.3rem", display: "block",}}>
-            Expertise in Data-Driven Regulatory Reporting and Software Solution Design.</span>
+            </span>
           <ul className="list-inside list-disc">
             <li>
-            Developed software solutions for financial institutions. Specializing in designing and implementing regulatory reporting requirements for German and Belgian Institutions. I worked with tools like git, Bitbucket, jjson
+            Developed software solutions for financial institutions. Specializing in designing and implementing regulatory reporting requirements for German and Belgian Institutions. I worked with tools like git, Bitbucket, jjson sdfsdsfdsfd
             </li>
             <li>
-            Automating complex ETL processes using Apache-Airflow and Rest-APIs, enhancing the efficiency and scalability of regulatory reporting pipelines.
+            Automating complex ETL processes using Apache-Airflow and Rest-APIs, enhancing the efficiency and scalability of regulatory reporting pipelines .
             </li>
             <li>
             Management of databases and datalakes. Developed client data quality checks and monitoring.
@@ -91,7 +91,7 @@ export const RESUME_DATA = {
       description: (
         <>
           <span style={{ fontSize: "0.8rem", fontWeight: "normal", marginBottom: "0.3rem", display: "block" }}>
-            Specialized in statistical modeling and data analysis within the field of optical measurement systems for chemical materials.</span>
+            </span>
           <ul className="list-inside list-disc">
             <li>
             Conducted raw data analysis of physical measurements, ensuring accurate interpretation of complex datasets.
@@ -100,7 +100,7 @@ export const RESUME_DATA = {
             Developed statistical and mathematical models to represent and analyze experimental data effectively.
             </li>
             <li>            
-            Managed data systems, including data clustering and organizing data lakes, to support streamlined research and analysis workflows.
+            Statistical modeling and data analysis within the field of optical measurement systems for chemical materials.:  <a href="https://doi.org/10.1103/PhysRevLett.124.136402" target="_blank" rel="noopener noreferrer"> </a> https://doi.org/10.1103/PhysRevLett.124.136402 and  <a href="https://doi.org/10.1103/PhysRevLett.124.136402" target="_blank" rel="noopener noreferrer"></a> https://doi.org/10.1103/PhysRevLett.124.136402.
             </li>
           </ul>
         </>
